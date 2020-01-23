@@ -1,0 +1,2 @@
+# Fundamentals-of-Computer-Programming-with-Java
+The book "Fundamentals of Computer Programming with Java" is an excellent manual to guide you through your journey of programming. It teaches algorithmic thinking as well as more complex concepts such as recursion, fundamental data structures and classic algorithms, list structures, trees and tree-like data structures, graphs, hash-tables, algorithm complexity, object-oriented programming principles (OOP) etc..
