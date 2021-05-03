@@ -26,5 +26,9 @@ public class Exercise_07 {
 		} else {
 			System.out.println("e = " + e);
 		}
+		
+		// alternative solution
+		// int[] arr = {a,b,c,d,e};
+		// System.out.println("The biggest number is: " + Math.max(...arr));
 	}
 }
