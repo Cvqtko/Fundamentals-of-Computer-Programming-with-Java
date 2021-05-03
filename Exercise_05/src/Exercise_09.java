@@ -68,55 +68,55 @@ public class Exercise_09 {
 				System.out.print("десет ");
 				break;
 			case 11:
-				System.out.print("Единадесет ");
+				System.out.print("единадесет ");
 				break;
 			case 12:
-				System.out.print("Дванадесет ");
+				System.out.print("дванадесет ");
 				break;
 			case 13:
-				System.out.print("Тринадесет ");
+				System.out.print("тринадесет ");
 				break;
 			case 14:
-				System.out.print("Четиринадесет ");
+				System.out.print("четиринадесет ");
 				break;
 			case 15:
-				System.out.print("Петнадесет ");
+				System.out.print("петнадесет ");
 				break;
 			case 16:
-				System.out.print("Шестнадесет ");
+				System.out.print("шестнадесет ");
 				break;
 			case 17:
-				System.out.print("Седемнадесет ");
+				System.out.print("седемнадесет ");
 				break;
 			case 18:
-				System.out.print("Осемнадесет ");
+				System.out.print("осемнадесет ");
 				break;
 			case 19:
-				System.out.print("Деветнадесет ");
+				System.out.print("деветнадесет ");
 				break;
 			case 20:
-				System.out.print("Двадесет ");
+				System.out.print("двадесет ");
 				break;
 			case 30:
-				System.out.print("Тридесет ");
+				System.out.print("тридесет ");
 				break;
 			case 40:
-				System.out.print("Четиридесет ");
+				System.out.print("четиридесет ");
 				break;
 			case 50:
-				System.out.print("Петдесет ");
+				System.out.print("петдесет ");
 				break;
 			case 60:
-				System.out.print("Шестдесет ");
+				System.out.print("шестдесет ");
 				break;
 			case 70:
-				System.out.print("Седемдесет ");
+				System.out.print("седемдесет ");
 				break;
 			case 80:
-				System.out.print("Осемдесет ");
+				System.out.print("осемдесет ");
 				break;
 			case 90:
-				System.out.print("Деветдесет ");
+				System.out.print("деветдесет ");
 				break;
 			case 100:
 				System.out.print("Сто ");
