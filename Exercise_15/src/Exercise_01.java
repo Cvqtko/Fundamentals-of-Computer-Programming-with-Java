@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-/* 1. Напишете програма, която чете от текстов файл и принтира нечетните му редове на конзолата.*/
+
 public class Exercise_01 {
 	public static void main(String[] args) {
 		String fileName = "C:\\Users\\Asus\\Desktop\\test.txt";
