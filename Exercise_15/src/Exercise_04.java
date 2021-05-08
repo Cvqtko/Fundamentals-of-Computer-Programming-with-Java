@@ -5,8 +5,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-/* 4. Ќапишете програма, ко€то замен€ вс€ко срещане на подниза "start" с "finish" в текстов файл.
-ћожете ли да пренапишете програмата така, че да замен€ само цели думи?*/
 public class Exercise_04 {
 	public static void main(String[] args) {
 		String fileName = "C:\\Users\\Asus\\Desktop\\test4.txt";
