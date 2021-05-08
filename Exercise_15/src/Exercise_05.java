@@ -9,9 +9,7 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
 
-/* 5. Напишете програма, която прочита списък от думи от файл, наречен words.txt, 
-преброява колко пъти всяка от тези думи се среща в друг файл text.txt и 
-записва резултата в трети файл – result.txt, като преди това ги сортира по брой на срещане в намаляващ ред.*/
+
 public class Exercise_05 {
 	public static final String FILE_WORDS_TO_SEARCH = "C:\\Users\\Asus\\Desktop\\words.txt";
 	public static final String FILE_INPUT = "C:\\Users\\Asus\\Desktop\\text.txt";
