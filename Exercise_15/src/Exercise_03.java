@@ -3,10 +3,6 @@ import java.io.FileNotFoundException;
 import java.io.PrintStream;
 import java.util.Scanner;
 
-/* 3. Напишете програма, която чете от файл квадратна матрица от цели числа 
-и намира подматрицата с размери 2 х 2 с най-голяма сума и записва тази сума в отделен текстов файл. 
-Първия ред на входния файл съдържа големината на записаната матрица (N). 
-Следващите N реда съдържат по N числа, разделени с интервал.*/
 public class Exercise_03 {
 	public static final String FILE_INPUT = "C:\\Users\\Asus\\Desktop\\test2.txt";
 	public static final String FILE_OUTPUT = "C:\\Users\\Asus\\Desktop\\test3.txt";
