@@ -4,10 +4,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-/* 2. Напишете програма, която чете списък от имена от един текстов файл, 
-сортира ги по азбучен ред и ги запазва в друг файл. Имената да са с латински букви. 
-На всеки ред от файла, където са записани имената, има точно по едно име. 
-На всеки ред от файла с резултата също трябва да има само по едно име.*/
 public class Exercise_02 {
 	public static void main(String[] args) {
 		String fileName = "C:\\Users\\Asus\\Desktop\\test1.txt";
